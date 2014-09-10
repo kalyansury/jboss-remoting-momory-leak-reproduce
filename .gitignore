@@ -1,0 +1,15 @@
+target
+test-output
+.idea
+*.iml
+c.cmd
+#eclipse 
+.project
+.classpath
+.settings
+.cache
+pom.xml.versionsBackup
+/dist
+.cache
+.worksheet
+*.sc
