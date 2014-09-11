@@ -11,8 +11,13 @@
 			<artifactId>wildfly-controller-client</artifactId>
 			<version>8.1.0.Final</version>
 		</dependency>
+		<dependency>
+			<groupId>org.jboss.remoting</groupId>
+			<artifactId>jboss-remoting</artifactId>
+			<version>4.1.0.Beta1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
-	
+
 	<build>
 		<plugins>
 			<plugin>
